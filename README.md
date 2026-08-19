@@ -1,2 +1,21 @@
-# rock-paper-scissors-python
-A simple Rock Paper Scissors game built with Python.
+# Rock Paper Scissors
+
+A simple Rock Paper Scissors game created using Python.
+
+## Features
+
+- User can choose Rock, Paper, or Scissors
+- Computer randomly selects a choice
+- Displays the winner
+- Simple command-line interface
+
+## Technologies Used
+
+- Python
+- Random module
+
+## How to Run
+
+Run the following command:
+
+python rock_paper_scissors.py
