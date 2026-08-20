@@ -18,4 +18,4 @@ A simple Rock Paper Scissors game created using Python.
 
 Run the following command:
 
-python rockPaperScissors.py
+python RockPaperScissors.py
